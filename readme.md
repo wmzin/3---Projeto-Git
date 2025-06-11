@@ -1,0 +1,1 @@
+Este projeto lhe ensina como mexer no Git.
